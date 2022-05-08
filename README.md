@@ -10,7 +10,7 @@
 
 ## BOOTCAMPS :trophy:
 
-[<img alt="Spread Fullstack Developer" width="40%" src="./Images/Icon_Spread_Fullstack_Developer.png" />](./Spread-Fullstack-Developer/README.md)
+[<img alt="Spread Fullstack Developer" width="30%" src="./Images/Icon_Spread_Fullstack_Developer.png" />](./Spread-Fullstack-Developer/README.md)
 
 ## CERTIFICADOS :1st_place_medal:
 

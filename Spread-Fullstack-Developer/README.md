@@ -1,6 +1,6 @@
 # Spread Fullstack Developer
 
-<img alt="Spread Fullstack Developer" width="60%" src="./../Images/Icon_Spread_Fullstack_Developer.png" />
+<img alt="Spread Fullstack Developer" width="50%" src="./../Images/Icon_Spread_Fullstack_Developer.png" />
 
 > O Bootcamp Spread Fullstack Developer é um programa gratuito para pessoas desenvolvedoras que querem começar sua jornada em desenvolvimento de software com uma base sólida em tecnologias essenciais em front-end quanto em back-end.
 >

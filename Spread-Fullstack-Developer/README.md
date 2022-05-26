@@ -31,6 +31,7 @@ if (!myProjects.length) {
 [<img alt="Lógica de Programação Essencial" width="20%" src="../Images/Icon_Logica_Programacao_Essencial.png" />](../Certificados/Logica_Programacao_Essencial.pdf)
 [<img alt="Introdução ao Git e ao GitHub" width="20%" src="../Images/Icon_Introducao_Git_Github.png" />](../Certificados/Introdu%C3%A7%C3%A3o_Git_GitHub.pdf)
 [<img alt="Primeiro Repositório no GitHub" width="20%" src="../Images/Icon_Primeiro_Repositorio_GitHub.png" />](../Certificados/Primeiro_Repositorio_GitHub.pdf)
-[<img alt="Primeiro Repositório no GitHub" width="20%" src="../Images/Icon_Primeiros_Passos_Desenvolvimento_Web.png" />](../Certificados/Primeiros_Passos_Desenvolvimento_Web.pdf)
+[<img alt="Primeiros Passos para Desenvolvimento Web" width="20%" src="../Images/Icon_Primeiros_Passos_Desenvolvimento_Web.png" />](../Certificados/Primeiros_Passos_Desenvolvimento_Web.pdf)
+[<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="../Images/icon_Introducao_HTML5_CSS3.png" />](../Certificados/Introducao_HTML5_CSS3.pdf)
 
 [⬆ Voltar ao topo](#Spread-Fullstack-Developer)

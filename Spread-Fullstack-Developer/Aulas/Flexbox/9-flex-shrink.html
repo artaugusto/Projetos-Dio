@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fundamentos - flex shrink</title>
+
+    <style>
+      .container {
+        display: flex;
+        border: 1px solid black;
+        max-width: 350px;
+        margin-bottom: 10px;
+      }
+
+      .item {
+        margin: 5px;
+        background-color: orangered;
+        font-size: 24px;
+        text-align: center;
+      }
+
+      .fs-0 {
+        flex-shrink: 0;
+        flex-basis: 100px;
+      }
+
+      .fs-1 {
+        flex-shrink: 1;
+      }
+
+      .fs-2 {
+        flex-shrink: 2;
+        flex-basis: 100px;
+      }
+
+      .fs-3 {
+        flex-shrink: 3;
+        flex-basis: 100px;
+      }
+
+      .fg-1 {
+        flex-grow: 1;
+      }
+    </style>
+  </head>
+
+  <body>
+    <p>flex-shrink: 1</p>
+    <div class="container">
+      <div class="item fg-1 fs-1">A</div>
+      <div class="item fg-1 fs-1">B</div>
+      <div class="item fg-1 fs-1">C</div>
+      <div class="item fg-1 fs-1">D</div>
+      <div class="item fg-1 fs-1">E</div>
+    </div>
+    <div class="container">
+      <div class="item fg-1 fs-1">A</div>
+      <div class="item fg-1 fs-1">The generated</div>
+      <div class="item fg-1 fs-1">C</div>
+      <div class="item fg-1 fs-1">D</div>
+    </div>
+
+    <p>flex-shrink: 0 / basis: 100px</p>
+    <div class="container">
+      <div class="item fg-1 fs-0">A</div>
+      <div class="item fg-1 fs-0">The generated</div>
+      <div class="item fg-1 fs-0">C</div>
+      <div class="item fg-1 fs-0">D</div>
+    </div>
+
+    <p>flex-shrink: mix / basis: 100px</p>
+    <div class="container">
+      <div class="item fg-1 fs-1">A</div>
+      <div class="item fg-1 fs-2">The generated</div>
+      <div class="item fg-1 fs-2">C</div>
+      <div class="item fg-1 fs-3">D</div>
+    </div>
+  </body>
+</html>

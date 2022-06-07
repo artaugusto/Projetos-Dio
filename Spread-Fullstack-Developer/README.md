@@ -17,7 +17,11 @@
 
 ## PROJETOS :books:
 
-[Flex-Projeto](./Projetos/Flex-Projeto)
+> ### FlexTurismos:
+>
+> [Código do projeto](https://github.com/artaugusto/FlexTurismo)
+>
+> [Website FlexTurismo](https://artaugusto.github.io/FlexTurismo/)
 
 ## CERTIFICADOS :1st_place_medal:
 

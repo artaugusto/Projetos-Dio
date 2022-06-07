@@ -20,5 +20,6 @@
 [<img alt="Primeiro Repositório no GitHub" width="20%" src="./Images/Icon_Primeiro_Repositorio_GitHub.png" />](./Certificados/Primeiro_Repositorio_GitHub.pdf)
 [<img alt="Primeiros Passos para Desenvolvimento Web" width="20%" src="./Images/Icon_Primeiros_Passos_Desenvolvimento_Web.png" />](./Certificados/Primeiros_Passos_Desenvolvimento_Web.pdf)
 [<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="./Images/icon_Introducao_HTML5_CSS3.png" />](./Certificados/Introducao_HTML5_CSS3.pdf)
+[<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="./Images/Icon-Posicionando-Elementos-Flexbox-CSS.png" />](./Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
 
 [⬆ Voltar ao topo](#Projetos-DIO)

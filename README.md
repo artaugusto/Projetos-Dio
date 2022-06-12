@@ -20,6 +20,7 @@
 [<img alt="Primeiro Repositório no GitHub" width="20%" src="./Images/Icon_Primeiro_Repositorio_GitHub.png" />](./Certificados/Primeiro_Repositorio_GitHub.pdf)
 [<img alt="Primeiros Passos para Desenvolvimento Web" width="20%" src="./Images/Icon_Primeiros_Passos_Desenvolvimento_Web.png" />](./Certificados/Primeiros_Passos_Desenvolvimento_Web.pdf)
 [<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="./Images/icon_Introducao_HTML5_CSS3.png" />](./Certificados/Introducao_HTML5_CSS3.pdf)
-[<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="./Images/Icon-Posicionando-Elementos-Flexbox-CSS.png" />](./Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
+[<img alt="Posicionando elementos com Flexbox em CSS" width="20%" src="./Images/Icon-Posicionando-Elementos-Flexbox-CSS.png" />](./Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
+[<img alt="Recriando a página inicial do Instagram" width="20%" src="./Images/Icon_Projeto_Recriando_Instagram.png" />](./Certificados/Projeto_Recriando_Instagram.pdf)
 
 [⬆ Voltar ao topo](#Projetos-DIO)

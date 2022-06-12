@@ -9,7 +9,7 @@
 ## MÓDULOS :bookmark:
 
 - [x] Módulo I - Conteúdo de abertura
-- [ ] Módulo II - HTML/CSS3
+- [x] Módulo II - HTML/CSS3
 - [ ] Módulo III - Javascript
 - [ ] Módulo IV - ReactJS
 - [ ] Módulo V - Banco de Dados
@@ -23,6 +23,12 @@
 >
 > [Website FlexTurismo](https://artaugusto.github.io/FlexTurismo/)
 
+> ### InstaClone:
+>
+> [Código do projeto](https://github.com/artaugusto/InstaClone)
+>
+> [Website InstaClone](https://artaugusto.github.io/InstaClone/)
+
 ## CERTIFICADOS :1st_place_medal:
 
 [<img alt="Spread Fullstack Developer" width="20%" src="./../Images/Icon_Spread_Fullstack_Developer.png" />](../Certificados/Boas-vindas_Bootcamp_Spread_Fullstack_Developer.pdf)
@@ -31,6 +37,7 @@
 [<img alt="Primeiro Repositório no GitHub" width="20%" src="../Images/Icon_Primeiro_Repositorio_GitHub.png" />](../Certificados/Primeiro_Repositorio_GitHub.pdf)
 [<img alt="Primeiros Passos para Desenvolvimento Web" width="20%" src="../Images/Icon_Primeiros_Passos_Desenvolvimento_Web.png" />](../Certificados/Primeiros_Passos_Desenvolvimento_Web.pdf)
 [<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="../Images/icon_Introducao_HTML5_CSS3.png" />](../Certificados/Introducao_HTML5_CSS3.pdf)
-[<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="../Images/Icon-Posicionando-Elementos-Flexbox-CSS.png" />](../Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
+[<img alt="Posicionando elementos com Flexbox em CSS" width="20%" src="../Images/Icon-Posicionando-Elementos-Flexbox-CSS.png" />](../Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
+[<img alt="Recriando a página inicial do Instagram" width="20%" src="../Images/Icon_Projeto_Recriando_Instagram.png" />](../Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
 
 [⬆ Voltar ao topo](#Spread-Fullstack-Developer)

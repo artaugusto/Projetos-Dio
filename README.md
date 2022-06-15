@@ -22,5 +22,6 @@
 [<img alt="Introdução a criação de websites com HTML5 e CSS3" width="20%" src="./Images/icon_Introducao_HTML5_CSS3.png" />](./Certificados/Introducao_HTML5_CSS3.pdf)
 [<img alt="Posicionando elementos com Flexbox em CSS" width="20%" src="./Images/Icon-Posicionando-Elementos-Flexbox-CSS.png" />](./Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
 [<img alt="Recriando a página inicial do Instagram" width="20%" src="./Images/Icon_Projeto_Recriando_Instagram.png" />](./Certificados/Projeto_Recriando_Instagram.pdf)
+[<img alt="Introdução ao JavaScript" width="20%" src="./Images/Icon_Introducao_JavaScript.png" />](./Certificados/Introducao_JavaScript.pdf)
 
 [⬆ Voltar ao topo](#Projetos-DIO)

@@ -46,5 +46,6 @@
 [<img alt="Posicionando elementos com Flexbox em CSS" width="20%" src="../Images/Icon-Posicionando-Elementos-Flexbox-CSS.png" />](../Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
 [<img alt="Recriando a página inicial do Instagram" width="20%" src="../Images/Icon_Projeto_Recriando_Instagram.png" />](../Certificados/Posicionando-Elementos-Flexbox-CSS.pdf)
 [<img alt="Introdução ao JavaScript" width="20%" src="../Images/Icon_Introducao_JavaScript.png" />](../Certificados/Introducao_JavaScript.pdf)
+[<img alt="Sintaxe e Operadores" width="20%" src="../Images/Icon_Sintaxe_e_Operadores.png" />](../Certificados/Sintaxe_e_Operadores.pdf)
 
 [⬆ Voltar ao topo](#Spread-Fullstack-Developer)
